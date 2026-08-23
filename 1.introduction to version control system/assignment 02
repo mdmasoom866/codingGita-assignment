@@ -11,3 +11,14 @@ Give 2 examples of each type.
 Write 2 advantages and 2 disadvantages of each type.
 Which type is Git? Justify your answer in 3–4 lines.
 Submission: Diagrams + written explanation
+ANSWER:-
+there are three tyoes of version control system :
+1.local veresion control system
+2.centralized version control system
+3.distributed version control system
+. in local vrsion control system we can do offline work
+. in centralized version control system we can do online work
+. distributed vcs work offline
+- in vcs we can do collaboration 
+- and dvcs wworks on git and git hub like github is service provider and git is service.
+ [diagram og answer]
